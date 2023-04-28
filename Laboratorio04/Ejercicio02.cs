@@ -10,7 +10,7 @@ namespace Laboratorio04
     {
         public double[] Calcular(int[] nums)
         {
-            return new double[] {0.0, 0.0};
+            return new double[] { 0.0, 0.0 };
         }
     }
 }
